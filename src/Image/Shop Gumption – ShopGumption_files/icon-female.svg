@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="126px" viewBox="0 0 130 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Female</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-62.000000, -60.000000)">
+            <g id="Female" transform="translate(61.000000, 63.000000)">
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="5" cx="83.5" cy="44.5" r="44.5"></circle>
+                <rect id="Rectangle-2" fill="#FFFFFF" transform="translate(27.000000, 97.500000) rotate(-45.000000) translate(-27.000000, -97.500000) " x="-8" y="95" width="70" height="5" rx="2.5"></rect>
+                <rect id="Rectangle-2" fill="#FFFFFF" transform="translate(31.000000, 93.500000) rotate(-135.000000) translate(-31.000000, -93.500000) " x="6" y="91" width="50" height="5" rx="2.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

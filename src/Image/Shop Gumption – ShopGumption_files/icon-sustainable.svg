@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="131px" height="155px" viewBox="0 0 131 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Sustainable</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-60.000000, -47.000000)" stroke="#FFFFFF" stroke-width="5">
+            <g id="Sustainable" transform="translate(63.000000, 48.000000)">
+                <path d="M28.5231303,129.966618 C38.3041372,136.31372 49.9715802,140 62.5,140 C97.0177969,140 125,112.017797 125,77.5 C125,63.3064425 120.268724,50.2179338 112.29726,39.7255616 M94.3577938,23.7175676 C85.0288605,18.179693 74.1357588,15 62.5,15 C27.9822031,15 0,42.9822031 0,77.5 C0,89.6867974 3.48798777,101.058932 9.52012367,110.672563 C10.1893866,111.739191 10.8899675,112.784173 11.6205773,113.806219" id="Oval"></path>
+                <g id="arrow" transform="translate(85.446294, 15.550965) rotate(3.000000) translate(-85.446294, -15.550965) translate(73.946294, 1.050965)" stroke-linecap="square">
+                    <path d="M0.974297501,28.0187947 L22.2246657,22.3247757" id="Line"></path>
+                    <path d="M22.1234666,22.0229616 L16.4294476,0.77259339" id="Line"></path>
+                </g>
+                <g id="arrow" transform="translate(37.557742, 137.898211) rotate(-174.000000) translate(-37.557742, -137.898211) translate(26.057742, 123.898211)" stroke-linecap="square">
+                    <path d="M0.966082223,27.9144097 L22.2164504,22.2203907" id="Line"></path>
+                    <path d="M22.1234666,22.0229616 L16.4294476,0.77259339" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="560px" viewBox="0 0 1440 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>bottom-bg-7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bottom-bg-7" fill="#F7F7F7">
+            <rect id="Rectangle" x="0" y="529" width="1440" height="31"></rect>
+            <rect id="Rectangle" x="2" y="528" width="1438" height="31"></rect>
+            <path d="M1440,283 L1440,529 L4.54747351e-13,529 C220.896395,424.67302 460.677926,395.144125 719.344593,440.413312 C978.011259,485.6825 1218.22973,433.211396 1440,283 Z" id="Rectangle-7" fill-rule="nonzero"></path>
+            <path d="M1440,194 L1440,529 L4.54747351e-13,529 C220.896395,386.928707 460.677926,346.716592 719.344593,408.363657 C978.011259,470.010722 1218.22973,398.55617 1440,194 Z" id="Rectangle-7" fill-rule="nonzero" opacity="0.5"></path>
+            <path d="M1440,0 L1440,529 L4.54747351e-13,529 C220.896395,345.317224 460.677926,293.327321 719.344593,373.030291 C978.011259,452.73326 1218.22973,328.38983 1440,0 Z" id="Rectangle-7" fill-rule="nonzero" opacity="0.3"></path>
+        </g>
+    </g>
+</svg>
