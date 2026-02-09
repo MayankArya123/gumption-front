@@ -20,8 +20,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-    "engines": {
-    "node": "24.x"
+  "engines": {
+    "node": "18.x"
   },
   "eslintConfig": {
     "extends": [
