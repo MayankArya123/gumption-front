@@ -238,9 +238,9 @@ export const App=()=>{
              <hr></hr>
          </div>
           <div className="list_items">
-          <li>Spring 2020</li>
-          <li>fall 2020</li>
-          <li>Summer 2020</li>
+          <li>Spring 2026</li>
+          <li>fall 2026</li>
+          <li>Summer 2026</li>
            <li>Best Sellers</li>
           <li>Favs under $100</li>
            <li>Gift Sets</li>
