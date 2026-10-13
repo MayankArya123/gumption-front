@@ -1,4 +1,4 @@
-import  {React,useEffect,useState } from 'react'
+import  {useEffect,useState } from 'react'
 // import { createPopper } from '@popperjs/core';
 import "bootstrap/dist/css/bootstrap.min.css"
 import Background from  './Image/MASSIVE_SITEWIDE_SALE_4e18a412-038b-47e4-8319-eaa5456b821b_800x.png'
