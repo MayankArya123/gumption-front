@@ -193,9 +193,9 @@ export const App=()=>{
                     <h2  onClick={()=>setShowOpenDropsContent(!OpenDropsContent)}   className={showProductsCategory ? 'show' : 'hide'}>Drops <span> <svg className={OpenDropsContent ? 'turn4' : 'dont_turn4'} aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-down default4" viewBox="0 0 9 9"><path d="M8.542 2.558a.625.625 0 0 1 0 .884l-3.6 3.6a.626.626 0 0 1-.884 0l-3.6-3.6a.625.625 0 1 1 .884-.884L4.5 5.716l3.158-3.158a.625.625 0 0 1 .884 0z" fill="#fff"></path></svg> </span> </h2>
                     <div className={OpenDropsContent ? 'show' : 'hide'}>
                     <div className="list_items">
-                    <li>Spring 2020</li>
-                    <li>fall 2020</li>
-                    <li>Summer 2020</li>
+                    <li>Spring 2026</li>
+                    <li>fall 2026</li>
+                    <li>Summer 2026</li>
                      <li>Best Sellers</li>
                     <li>Favs under $100</li>
                      <li>Gift Sets</li>
@@ -304,7 +304,7 @@ export const App=()=>{
     <div className="upper_block">
     <div className="main">
     <h2>Stock Clearout sale!</h2>
-    <p>A change is in the air with Gumption! We are selling out all our current stock at 40-80% off to make way for the new changes to come in 2021! No code needed. ALL SALES FINAL. </p>
+    <p>A change is in the air with Gumption! We are selling out all our current stock at 40-80% off to make way for the new changes to come in 2026! No code needed. ALL SALES FINAL. </p>
      <button onClick={()=>console.log('jjjjjjj')} className="sale_button">shop the sale!</button>
     </div>
     <div className="img_container">
